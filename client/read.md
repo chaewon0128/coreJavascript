@@ -1,9 +1,7 @@
 # 멋쟁이 사자처럼
 
-## 자바스크립트 학습 저장소
+## 자바스크립트 코어에 대해 학습 합니다.
 
-### 학습 주제별로 브랜치를 나눠 수업을 진행 합니다.
-
-해당 학습 자료는 해당 브랜치로 이동 후 확인이 가능합니다.
-
-[JavaScript Core 브랜치](http://www.naver.com)
+- [ ] Code structure
+- [ ] Variables
+- [ ] Strict Mode
