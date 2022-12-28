@@ -2,6 +2,8 @@
 
 ## 자바스크립트 코어에 대해 학습 합니다.
 
-- [ ] Code structure
-- [ ] Variables
-- [ ] Strict Mode
+- [x] Code structure
+- [x] Variables
+- [x] Strict Mode
+- [x] global this
+- [x] data type
