@@ -74,7 +74,7 @@ attr()
 
 
 
-function getAttr(node, prop) {
+export function getAttr(node, prop) {
   // node = '.first'
   // prop = 'class'
 
