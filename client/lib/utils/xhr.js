@@ -100,7 +100,7 @@ xhrData.delete = (url,body,onSuccess,onFail) => {
 
 
 
-console.dir(xhrData)
+//console.dir(xhrData)
 
 
 
